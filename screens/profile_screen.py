@@ -85,4 +85,4 @@ class ProfileScreen(Screen):
         self.add_widget(layout)
 
     def go_back(self, instance):
-        self.manager.current = 'main' 
+        self.manager.current = 'main'
